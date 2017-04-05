@@ -1,6 +1,7 @@
 # SushiTime
 
 Version 4.0
+
 In this version of the game, the net is used as a window through which
 to see the world. Also, objects are now mapped using local coordinates.
 World coordinates and local coordinates are now separate. Instead of
@@ -29,6 +30,7 @@ with 4 control points each.
 
 
 Version 3.0
+
 In this version, the console is never printed to anymore. A
 timer has been added to the game with Game itself as a listener.
 Each time timer generates an event (using the delay of 20 milliseconds)
@@ -81,6 +83,7 @@ direction. When the game is unpaused, the reverse command is disabled,
 and fish objects are not selectable. 
 
 Version 2.0
+
 This is the primary class which represents and executes control
 for the game once it is instantiated. In this version of the
 game, Game is now the main JFrame for the GUI, and contains not
