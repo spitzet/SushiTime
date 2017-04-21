@@ -1,4 +1,4 @@
-# SushiTime
+# SushiTime (2012)
 
 Version 4.0
 
